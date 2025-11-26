@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Vladyslav Bilonoh
+<h1 align="center"> Hi, I'm Vladyslav Bilonoh 👋</h1>
 
-## 👨‍💻 Full Stack Developer
+<h2 align="center">👨‍💻 Full Stack Developer</h2>
+
+
 
 🎓 Graduate of GoIT Fullstack Development Program  
 💡 Passionate about building modern, responsive web applications  
@@ -54,10 +56,11 @@ Full-featured online shop with modern UI and smooth user experience.
 
 ## 📫 Contact Me
 
-- 📧 Email: mailto:vladyslav.bilonoh@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/vladyslavbilonoh/
-- 💬 Telegram: https://t.me/maodzhedun
+- 📧 Email: [vladyslav.bilonoh@gmail.com](mailto:vladyslav.bilonoh@gmail.com)
+- 💼 LinkedIn: [Vladyslav Bilonoh](https://www.linkedin.com/in/vladyslavbilonoh/)
+- 💬 Telegram: [@maodzhedun](https://t.me/maodzhedun)
 
 ---
+
 
 ⭐ Thank you for visiting!
