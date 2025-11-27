@@ -3,10 +3,13 @@
 <h2 align="center">👨‍💻 Full Stack Developer</h2>
 
 
+🧾 About Me
 
-🎓 Graduate of GoIT Fullstack Development Program  
-💡 Passionate about building modern, responsive web applications  
-🚀 Always eager to learn new technologies and improve my skills
+⚡️ Over the past year, I've been deeply immersed in full-stack development, building practical experience in creating web applications and services.
+
+👨‍💻 As a developer, I work both independently and collaboratively with my training team — delivering new features quickly, resolving bugs efficiently, and maintaining or refactoring existing codebases.
+
+🎓 Graduate of GoIT Fullstack Development Program (2025)
 
 ---
 
@@ -37,7 +40,6 @@
 ### 🛒 [Clothica Shop Backend](https://github.com/maodzhedun/clothica-shop-backend)
 Backend API for a modern e-commerce clothing platform.  
 **Tech:** Node.js • Express • REST API  
-🔗 [Live Demo](https://clothica-shop-backend.onrender.com/)
 
 ### 🏪 [Online Shop](https://github.com/maodzhedun/online-shop)
 Full-featured online shop with modern UI and smooth user experience.  
